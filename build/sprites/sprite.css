@@ -1,0 +1,71 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<!-- `display: block` sprite -->
+<div class="icon-home"></div>
+
+<!-- `display: inline-block` sprite -->
+<img class="icon-home" />
+```
+*/
+.icon-arrow-next {
+  background-image: url(sprite.png);
+  background-position: 0px -85px;
+  width: 14px;
+  height: 23px;
+}
+.icon-arrow-prev {
+  background-image: url(sprite.png);
+  background-position: -14px -85px;
+  width: 14px;
+  height: 23px;
+}
+.icon-author {
+  background-image: url(sprite.png);
+  background-position: -77px -57px;
+  width: 13px;
+  height: 14px;
+}
+.icon-close {
+  background-image: url(sprite.png);
+  background-position: -22px -57px;
+  width: 21px;
+  height: 21px;
+}
+.icon-comments {
+  background-image: url(sprite.png);
+  background-position: -43px -57px;
+  width: 20px;
+  height: 14px;
+}
+.icon-date {
+  background-image: url(sprite.png);
+  background-position: -28px -85px;
+  width: 13px;
+  height: 16px;
+}
+.icon-logo-rm {
+  background-image: url(sprite.png);
+  background-position: 0px 0px;
+  width: 210px;
+  height: 57px;
+}
+.icon-search {
+  background-image: url(sprite.png);
+  background-position: -63px -57px;
+  width: 14px;
+  height: 14px;
+}
+.icon-tag {
+  background-image: url(sprite.png);
+  background-position: -90px -57px;
+  width: 13px;
+  height: 12px;
+}
+.icon-twitter {
+  background-image: url(sprite.png);
+  background-position: 0px -57px;
+  width: 22px;
+  height: 28px;
+}

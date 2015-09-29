@@ -1,0 +1,10 @@
+/* Centralizar links no pai */
+
+@mixin radius(){
+	border-radius: 20px;
+	border: 0;
+}
+
+@mixin font(){
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
